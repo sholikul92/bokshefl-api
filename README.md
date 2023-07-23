@@ -24,3 +24,6 @@ You can access it with 'http://{url}:9000/books'
       "reading": false
     }
   </pre>
+  * `name` can`t be an empty string
+  * `readPage` can`t be larger than `pageCount`
+    <br>
